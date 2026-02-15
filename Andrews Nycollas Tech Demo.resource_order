@@ -1,0 +1,17 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Sprites","order":13,"path":"folders/Sprites.yy",},
+    {"name":"Objects","order":12,"path":"folders/Objects.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_bullet","order":1,"path":"objects/obj_bullet/obj_bullet.yy",},
+    {"name":"obj_display_controller","order":2,"path":"objects/obj_display_controller/obj_display_controller.yy",},
+    {"name":"obj_game_manager","order":3,"path":"objects/obj_game_manager/obj_game_manager.yy",},
+    {"name":"macros_functions","order":1,"path":"scripts/macros_functions/macros_functions.yy",},
+    {"name":"spr_background_tile","order":2,"path":"sprites/spr_background_tile/spr_background_tile.yy",},
+    {"name":"spr_gamepad","order":4,"path":"sprites/spr_gamepad/spr_gamepad.yy",},
+    {"name":"spr_keyboard","order":3,"path":"sprites/spr_keyboard/spr_keyboard.yy",},
+    {"name":"spr_player_right","order":1,"path":"sprites/spr_player_right/spr_player_right.yy",},
+    {"name":"spr_saving_icon","order":5,"path":"sprites/spr_saving_icon/spr_saving_icon.yy",},
+  ],
+}
