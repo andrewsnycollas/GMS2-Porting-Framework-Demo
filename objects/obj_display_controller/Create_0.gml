@@ -1,6 +1,6 @@
 // Resolução base do jogo (Ex: Pixel Art Style)
-base_w = 480;
-base_h = 270;
+base_w = 600;
+base_h = 450;
 width = base_w;
 height = base_h;
 scale = 3; // Começa 3x maior (1440x810)
